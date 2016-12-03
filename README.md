@@ -1,2 +1,4 @@
 # rofi-grey
-Simple rofi grey theme
+
+Simple rofi theme made for use with the following config:
+
